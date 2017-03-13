@@ -1,0 +1,18 @@
+doctype html
+html(lang="ru")
+    head
+        meta(charset= UTF-8)
+        meta(name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0")
+        title= pageTitle
+        script(type='text/javascript').
+            if (foo) bar(1 + 5)
+    body
+        h1 Pug - node template engine
+        #container.col
+            if youAreUsingPug
+                p You are amazing
+            else
+                p Get on it!
+            p.
+                Pug is a terse and simple templating language with a
+                strong focus on performance and powerful features.
