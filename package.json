@@ -1,0 +1,27 @@
+{
+  "name": "refterminal",
+  "version": "1.0.0",
+  "description": "refterminal app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KolobenkovD/refterminal.git"
+  },
+  "author": "KolobenkovD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KolobenkovD/refterminal/issues"
+  },
+  "homepage": "https://github.com/KolobenkovD/refterminal#readme",
+  "devDependencies": {
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-image": "^2.7.5",
+    "gulp-postcss": "^6.3.0",
+    "postcss-scss": "^0.4.1",
+    "precss": "^1.4.0"
+  }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA;IACI,uBAAuB;CAC1B;AACD;IACI,eAAe;CAClB;;AAED;IACI,aAAa;CAIhB;;AAHG;IACI,WAAW;CACd","file":"index.css","sourcesContent":["body{\n    background-color: #fff;\n}\nh1{\n    font-size: 1em;\n}\n\n.test{\n    color: black;\n    span{\n        color: red;\n    }\n}"],"sourceRoot":"/source/"}
